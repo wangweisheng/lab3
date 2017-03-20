@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UITest</string>
+    <string name="listview">ListView界面</string>
+    <string name="str_AlterDialog">显示自定义提示对话框</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_in">Sign in</string>
+    <string name="Test_content">被测试的内容</string>
+    <string name="xml_menu">XML定义menu菜单</string>
+    <string name="actionmode">ActionMode应用</string>
+</resources>

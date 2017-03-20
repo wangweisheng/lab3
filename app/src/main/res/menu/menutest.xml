@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group1"  >
+        <item android:id="@+id/textSize"
+            android:title="字体大小">
+            <menu>
+                <item android:id="@+id/ten"
+                    android:title="10sp" />
+                <item android:id="@+id/sixteen"
+                    android:title="16sp" />
+                <item android:id="@+id/twenty"
+                    android:title="20sp" />
+            </menu>
+        </item>
+    </group>
+    <group android:id="@+id/group2"  >
+        <item android:id="@+id/Nomalmenu"
+            android:title="普通菜单项" />
+    </group>
+    <group android:id="@+id/group3"  >
+        <item android:id="@+id/textColor"
+            android:title="字体颜色">
+            <menu>
+                <item android:id="@+id/red"
+                    android:title="红色"
+                    />
+                <item android:id="@+id/black"
+                    android:title="黑色" />
+            </menu>
+        </item>
+    </group>
+</menu>
