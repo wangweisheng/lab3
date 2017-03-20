@@ -3,5 +3,5 @@
 ![](https://github.com/wangweisheng/lab3/blob/master/app/src/main/res/Image/aftertest.png)
 ![](https://github.com/wangweisheng/lab3/blob/master/app/src/main/res/Image/alterDialog.png)
 ![](https://github.com/wangweisheng/lab3/blob/master/app/src/main/res/Image/listView.png)
-![](https://github.com/wangweisheng/lab3/blob/master/app/src/main/res/Image/select all.png)
+![](https://github.com/wangweisheng/lab3/blob/master/app/src/main/res/Image/select one.png)
 ![](https://github.com/wangweisheng/lab3/blob/master/app/src/main/res/Image/testBefore.png)
